@@ -1,5 +1,6 @@
 # CARLA 2D Waypoint Follower Controller
 ![CARLA Output GIF](media/cover.gif)
+
 This repository contains a 2D longitudinal and lateral controller implementation for a vehicle simulated in the [CARLA Simulator](https://carla.org/). The controller is designed to follow a predefined set of waypoints with associated target speeds, and serves as a core component of a waypoint-following autonomous driving demo.
 
 ## Controller Overview
